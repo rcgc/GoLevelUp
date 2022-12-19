@@ -16,7 +16,7 @@ Source files from the course: [Level Up: Go](https://www.linkedin.com/learning/l
    - time
    - log
    - os
-   - 
+
 ## Level 2
 
 ## Level 3
