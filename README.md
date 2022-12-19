@@ -1,5 +1,6 @@
 # GoLevelUp
 Source files from the course: [Level Up: Go](https://www.linkedin.com/learning/level-up-go) taught by [Angelina Simion](https://www.linkedin.com/learning/instructors/adelina-simion?u=76737724). Every level consists of 3 different problems with their corresponding libraries (listed by relevance) to solve every task:
+
 ## Level 1
 1. Sleeps
    - time
@@ -15,7 +16,13 @@ Source files from the course: [Level Up: Go](https://www.linkedin.com/learning/l
    - time
    - log
    - os
+   - 
 ## Level 2
+
 ## Level 3
+
 ## Level 4
+
 ## Level 5
+
+# References
