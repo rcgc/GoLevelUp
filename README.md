@@ -13,8 +13,8 @@ Source files from the course: [Level Up: Go](https://www.linkedin.com/learning/l
    - encoding/json
    - math/rand
    - time
-	 - log
-	 - os
+   - log
+   - os
 ## Level 2
 ## Level 3
 ## Level 4
