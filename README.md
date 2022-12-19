@@ -1,5 +1,5 @@
 # GoLevelUp
-Source files from the course: Level Up: Go. Every level consists of 3 different problems with their corresponding libraries to solve every task:
+Source files from the course: [Level Up: Go](https://www.linkedin.com/learning/level-up-go/calculate-change?autoplay=true&u=76737724). Every level consists of 3 different problems with their corresponding libraries to solve every task:
 ## Level 1
 1. Sleeps
    - time
