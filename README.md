@@ -19,6 +19,20 @@ The detailed description of the corresponding problem can be found into every fi
    - os
 
 ## Level 2
+4. Coin change
+   - math
+   - flag
+   - log
+5. Big Sale
+   - sort
+   - encoding/json
+   - flag
+   - log
+   - os
+6. BiggestMarket
+   - encoding/json
+   - log
+   - os
 
 ## Level 3
 
