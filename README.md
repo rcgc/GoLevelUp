@@ -35,6 +35,16 @@ The detailed description of the corresponding problem can be found into every fi
    - os
 
 ## Level 3
+7. Balanced
+   - flag
+   - log
+8. Gossip
+   - encoding/json
+	- math/rand
+	- os
+	- time
+   - fmt
+	- log
 
 ## Level 4
 
