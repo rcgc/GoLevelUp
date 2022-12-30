@@ -62,5 +62,32 @@ The detailed description of the corresponding problem can be found into every fi
 	- log
 
 ## Concurrency
+### Level 1
+   11. Copying
+   - flag
+   - log
+
+### Level 2
+   12. Dog
+   - sync
+	- math/rand
+	- time
+   - log
+
+### Level 3
+   13. Lunch
+   - log
+   - fmt
+
+### Level 4
+   14. Coffee
+   - sync
+   - log
+   - fmt
+   15. Silent
+   - math/rand
+	- time
+   - fmt
+	- log
 
 # References
